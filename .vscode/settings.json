@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CTM.sln"
+    "dotnet.defaultSolution": "chase the moonSAFE.sln",
+    "git.ignoreLimitWarning": true
 }

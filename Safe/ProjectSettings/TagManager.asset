@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - playerBox
+  - Anchor
+  - bullet
+  - TrackingObject
+  - waterBase
+  - lightning
+  - wall
+  - wand
+  - powerup
+  - pSpell
+  - endPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grab
+  - Water
+  - UI
+  - Target
+  - Obstruction
+  - Body
+  - combat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
